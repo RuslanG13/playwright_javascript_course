@@ -1,0 +1,12 @@
+{
+  "username": "mukesh@gmail.com",
+  "password": "admin@123",
+  "name": "Mukesh",
+  "interest": ["SQL", "appium", "JavaScript"],
+  "gender": "Male",
+  "address": {
+    "area": "HSR",
+    "city": "Bamgalore",
+    "pincode": 556699
+  }
+}
