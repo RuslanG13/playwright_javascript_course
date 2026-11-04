@@ -26,8 +26,6 @@ test("Select Values From Dropdown", async ({ page }) => {
         let value = await element.textContent();
 
         if (value.includes("Assam")) {
-            console.log(value);
-
             dropdownStatus = true;
             break;
         }
